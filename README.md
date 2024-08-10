@@ -10,7 +10,7 @@
   
 ## Featues :
 - RESTful API Endpoints
-- Register , Login, Logout, Reset Password
+- Register , Token Auth, Reset Password
 - Create Products , Get Products (pagination)
 - Searching by [ Product - Brand - Category ]
 - Create Reviews , Update Reviews , Delete Reviews
