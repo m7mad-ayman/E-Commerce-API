@@ -24,7 +24,7 @@
   - Docker-Compose
   ### SetUp
   - Open Docker
-  - Unix and Windows run the following command :
+  - For Unix and Windows run the following command :
     ```
     docker-compose up --build
     ```
