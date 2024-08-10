@@ -24,7 +24,14 @@
   - Docker-Compose
   ### SetUp
   - Open Docker
-  - Run :
+  - Unix and Windows run the following command :
     ```
     docker-compose up --build
     ```
+
+## Running Tests
+run the following command :
+```
+python manage.py test
+```
+
