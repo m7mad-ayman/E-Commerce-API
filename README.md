@@ -25,4 +25,6 @@
   ### SetUp
   - Open Docker
   - Run :
-    '''docker-compose up --build'''
+    '''
+    docker-compose up --build
+    '''
