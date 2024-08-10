@@ -3,7 +3,7 @@
 
 ## Tools :
 - Django
-- RestfullAPI
+- RestFramework
 - Docker
 - Celery
 - Redis
@@ -14,7 +14,7 @@
 - Create Products , Get Products (pagination)
 - Searching by [ Product - Brand - Category ]
 - Create Reviews , Update Reviews , Delete Reviews
-- [Post - Get - Delete] in the Cart
+- [Post - Get - Delete] Products to the Cart
 - Review and Confirm Order
 
 ## Installation :
@@ -23,4 +23,6 @@
   - Docker
   - Docker-Compose
   ### SetUp
-  
+  - Open Docker
+  - Run :
+    '''docker-compose up --build'''
