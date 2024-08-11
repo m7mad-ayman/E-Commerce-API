@@ -33,6 +33,6 @@
 run the following commands :
 ```
 python manage.py test account
-python manage.py test main
+python manage.py test product
 ```
 
