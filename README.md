@@ -30,8 +30,9 @@
     ```
 
 ## Running Tests
-run the following command :
+run the following commands :
 ```
-python manage.py test
+python manage.py test account
+python manage.py test main
 ```
 
